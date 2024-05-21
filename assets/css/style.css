@@ -25,15 +25,35 @@ body
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 55px rgba(0, 0, 0, 0.1);
 }
+.profileText .imgBx
+{
+    position: relative;
+    width: 12.5rem;
+    height: 12.5rem;
+    border-radius: 50%;
+    overflow: hidden;
+}
 .container .left_Side
 {
     position: relative;
     background-color: #003147;
-    padding: 40px;
+    padding: 2.5rem;
+}
+
+.profileText h2
+{
+    color: #ffff;
+    font-size: 1.5em;
+    margin-top: 1.25rem;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.4em;
+
 }
 .container .right_Side
 {
     position: relative;
     background-color: #003147;
-    padding: 40px;
+    padding: 2.5rem;
 }
