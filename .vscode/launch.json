@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "chrome",
+            "type": "TDF Debugger",
             "request": "launch",
             "name": "Open index.html",
             "file": "c:\\Users\\202310726\\WD-B2\\index.html"
